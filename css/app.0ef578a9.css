@@ -1,0 +1,1 @@
+.narrower-columns td:not(:first-child):not(:last-child){padding:0 8px}.narrower-columns td:first-child{padding-left:16px;padding-right:8px}.narrower-columns td:last-child{padding-left:8px;padding-right:16px}
