@@ -1,0 +1,1 @@
+.two-column-list{-webkit-column-count:2;-moz-column-count:2;column-count:2}.narrower-columns td:not(:first-child):not(:last-child){padding:0 8px}.narrower-columns td:first-child{padding-left:16px;padding-right:8px}.narrower-columns td:last-child{padding-left:8px;padding-right:16px}.selected-button{background-color:hsla(0,0%,100%,.4)}
